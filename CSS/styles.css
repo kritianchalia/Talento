@@ -1,0 +1,80 @@
+body{
+    height: 100vh;
+    background-color: #DCF2F1;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.9;
+}
+.navbar_bg{
+    background-color: #7FC7D9;
+}
+.hero_btn{
+    background-color: #7FC7D9;
+}
+.heroheight{
+    height: 75vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.mar{
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+.feature{
+    width:60%;
+    position: relative;
+    left: 20%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+}
+.imgsize{
+    height: 60vh;
+    opacity: 70%;
+}
+.back{
+    background-color: white;
+    font-weight: 500;
+    color: black;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+h3{
+    position: relative;
+    bottom: -70px;
+    width: 50%;
+}
+.company{
+    display: flex;
+    width: 100%;
+    height: 20vh;
+    background-color: #0F1035;
+    align-items: center;
+}
+.comp{
+    height: 15vh;
+    width: 20%;
+    background-color: aliceblue;
+    border-right: 10px solid black;
+    border-left: 10px solid black;
+}
+
+.comp img{
+    width: 100%;
+    height: 100%;
+}
+
+#text_comp{
+    text-align: center;
+    background-color: #0F1035;
+    padding: 10px;
+    margin: 0;
+    height: 5vh;
+    color: aliceblue;
+    font-size: large;
+}
